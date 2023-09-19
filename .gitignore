@@ -1,0 +1,10 @@
+
+__pycache__/
+
+.idea/
+
+ursina-master/
+
+*.DS_Store
+
+*.pickle
